@@ -6,7 +6,7 @@ Pembahasan :
 
 GIS ialah sistem informasi yang dapat digunakan untuk pengelolaan dan penyimpanan titik koordinat ataupu wilayah geografis
 
-<img src="./media/image1.jpg" width="624" height="350" />
+<img src="https://3.bp.blogspot.com/-3EIkhtQeaaU/V_zcxSZh1DI/AAAAAAAABaA/NMCRss4yPpY9l02hksc5g6q76kijJ3oDgCLcB/s1600/globe.jpg" width="624" height="350" />
 
 Pengertian Latitude dan Longitude:
 
